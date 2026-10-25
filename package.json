@@ -1,0 +1,16 @@
+{
+  "name": "ipe331-machine-shop-atlas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "smoke": "node tools/smoke.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "three": "^0.160.0"
+  }
+}
